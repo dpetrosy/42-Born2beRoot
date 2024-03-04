@@ -39,5 +39,5 @@
 
 For detailed information, refer to the [**subject of this project**](README_files/b2br_subject.pdf).
 
-	🚀 TLDR: This project consists of installing Debian on the VirtualBox and configuring it according to the rules
- 		 mentioned in the subject.
+	🚀 TLDR: This project consists of installing Debian on the VirtualBox and configuring it 
+ 		 according to the rules mentioned in the subject.
