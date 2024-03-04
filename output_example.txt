@@ -1,0 +1,15 @@
+Broadcast message from debian@debian42 (pts/1) (Mon Mar  4 13:22:38 2024):
+
+
+    #Architecture: Linux debian42 6.1.0-18-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.76-1 (2024-02-01) x86_64 GNU/Linux
+    #CPU physical : 2
+    #vCPU : 2
+    #Memory Usage: 201/1967MB (10.21%)
+    #Disk Usage: 1950/11Gb (18%)
+    #CPU load: 10.2%
+    #Last boot: 2024-03-04 13:21
+    #LVM use: yes
+    #Connections TCP : 1 ESTABLISHED
+    #User log: 1
+    #Network: IP 12.3.1.14  (06:01:22:6f:51:06)
+    #Sudo : 143 cmd
