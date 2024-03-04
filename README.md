@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Logo -->
   <a href="https://github.com/dpetrosy/Breadcrumbs42-Born2beRoot">
-  <img src="logo.png" alt="Logo" width="80" height="80">
+  <img src="logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <!-- Project Name -->
