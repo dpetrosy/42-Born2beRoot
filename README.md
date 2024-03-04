@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- Logo -->
-  <a href="https://github.com/dpetrosy/Breadcrumbs42-Born2beRoot">
+  <a href="https://github.com/dpetrosy/42-Born2beRoot">
   <img src="logo.png" alt="Logo" width="150" height="150">
   </a>
 
